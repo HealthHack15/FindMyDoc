@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Chinmay\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Chinmay\AndroidStudioProjects\M-DoctorApp\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-5913d761a90b2d44df1739cd2f1173290c904bef.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chinmay\AndroidStudioProjects\M-DoctorApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Chinmay\AndroidStudioProjects\M-DoctorApp\app\build\intermediates\pre-dexed\debug\classes-63654a9bdd5b894ae0d904ba0df21e4f3f3ccda3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chinmay\AndroidStudioProjects\M-DoctorApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Chinmay\AndroidStudioProjects\M-DoctorApp\app\build\intermediates\pre-dexed\debug\classes-5993f96c5a3d70e34d833e55c3871e162364ef8c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chinmay\AndroidStudioProjects\M-DoctorApp\app\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0dcc55e70f7ebf7238fe2ec53f662eb378ab2668">
+        <dex dex="C:\Users\Chinmay\AndroidStudioProjects\M-DoctorApp\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-cb0cfddb83e93859f8209ab571e7721ea9c78895.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chinmay\AndroidStudioProjects\M-DoctorApp\app\libs\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\Chinmay\AndroidStudioProjects\M-DoctorApp\app\build\intermediates\pre-dexed\debug\gson-2.3.1-a10f69f15f35b4dc6ebe34ddadbf30178cf4491b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chinmay\AndroidStudioProjects\M-DoctorApp\app\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
+        <dex dex="C:\Users\Chinmay\AndroidStudioProjects\M-DoctorApp\app\build\intermediates\pre-dexed\debug\classes-25db443ad09d6a910c002b443e87bd4336c01144.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chinmay\AndroidStudioProjects\M-DoctorApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Chinmay\AndroidStudioProjects\M-DoctorApp\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-5aac4231034a8c96307990fa3e9414447be063e1.jar" />
+    </item>
+
+</items>

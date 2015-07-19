@@ -1,0 +1,42 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent" android:layout_height="fill_parent"
+    android:background="@drawable/doc_patient">
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="See Appointments"
+        android:id="@+id/btnappointment"
+        android:textStyle="bold|italic"
+        android:layout_marginTop="113dp"
+        android:layout_below="@+id/textView2"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="See Doctors"
+        android:id="@+id/btndoctor"
+        android:gravity="center"
+        android:layout_below="@+id/btnappointment"
+        android:layout_alignStart="@+id/btnappointment"
+        android:layout_marginTop="163dp"
+        android:textStyle="bold|italic"
+        android:layout_alignEnd="@+id/btnappointment" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Hygieia"
+        android:textSize="30dp"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/background_material_light"
+        android:id="@+id/textView2"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>
+
+
+
